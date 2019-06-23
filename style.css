@@ -37,7 +37,7 @@ body {
   vertical-align: middle;
 }
 
-#search-input:focus {
+input:focus {
   outline: none;
 }
 
