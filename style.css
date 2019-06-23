@@ -37,6 +37,10 @@ body {
   vertical-align: middle;
 }
 
+#search-input:focus {
+  outline: none;
+}
+
 .button {
   border-radius: 0 1rem 1rem 0;
   font-size: 1rem;
